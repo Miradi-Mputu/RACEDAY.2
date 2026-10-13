@@ -64,7 +64,8 @@ To run the tests:
 
 The GitHub Actions workflow builds the solution and runs all unit tests on every push.
 
-![CI/CD Success](cicd-success.png)
+<img width="1324" height="670" alt="Screenshot 2026-10-13 175631" src="https://github.com/user-attachments/assets/f581b561-91e4-4707-bc9a-a2b5639467fc" />
+
 
 ## YouTube Demonstration
 
