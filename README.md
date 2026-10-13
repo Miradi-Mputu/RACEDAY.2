@@ -2,7 +2,7 @@
 
 ## Project Description
 
-RaceDay is a race management system that allows organisers to create and manage race events, and participants to enter those events. This repository contains Part 2 — the RESTful API built with ASP.NET Core Web API.
+RaceDay is a race management system that allows organisers to create and manage race events, and participants to enter those events. This repository contains Part 2  the RESTful API built with ASP.NET Core Web API.
 
 ## Project Location
 
